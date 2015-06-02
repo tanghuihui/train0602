@@ -1,6 +1,6 @@
 ﻿@charset "utf-8";
 /* CSS Document */
-html, body,  span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, img, ins, kbd, q, s, samp, small, strike, strong, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td
+html, body,  span, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a,  address, big, cite, code, img, ins, kbd, q, s, samp, small, strike, strong, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td
 { margin: 0; padding: 0; border: 0; outline: 0;font-size: 12px; vertical-align: baseline; background: transparent;font-weight: normal;} 
 div{margin: 0; padding: 0; border: 0; outline: 0; vertical-align: baseline; background: transparent;font-weight: normal;}  
 *{margin:0; padding:0;-webkit-box-sizing: content-box;-moz-box-sizing: content-box;box-sizing: content-box;}
